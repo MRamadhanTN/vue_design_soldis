@@ -1,0 +1,11 @@
+<template>
+  <div>
+    <img
+      src="https://i.ytimg.com/vi/lBSZEafGyzU/maxresdefault.jpg"
+      alt="image"
+      class="rounded-xl"
+      width="600"
+      height="600"
+    />
+  </div>
+</template>
